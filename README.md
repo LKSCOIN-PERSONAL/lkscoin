@@ -3,7 +3,8 @@ LksCoin Core staging tree 3.0.0.3
 
 `master:` [![Build Status](https://travis-ci.org/lkspay/lks.svg?branch=master)](https://travis-ci.org/lkspay/lks) `develop:` [![Build Status](https://travis-ci.org/lkspay/lks.svg?branch=develop)](https://travis-ci.org/lkspay/lks/branches)
 
-https://www.lks.org
+https://www.lkschain.io
+https://www.lksfoundation.org
 
 
 What is Lks?
